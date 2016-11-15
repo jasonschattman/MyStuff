@@ -1,7 +1,7 @@
 
 package basicgraphics;
 
-import java.awt.*; //needed for graphics
+import java.awt.*; //needed for graphics stuff
 import javax.swing.*; //needed for graphics
 
 
